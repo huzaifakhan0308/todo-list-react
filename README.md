@@ -28,9 +28,9 @@ HTML | CSS | JS | ES6 | React
 
 ### Key Features <a name="key-features"></a>
 
-- **[calculate any number]**
-- **[clear the display]**
-- **[changing number in display]**
+- **[Add todo]**
+- **[Delet todo]**
+- **[complete todo]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +76,7 @@ To run the project, run `npm start` to run the project
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Feel free to check [issues page](https://github.com/huzaifakhan0308/math-magicians/issues).
+Feel free to check [issues page](https://github.com/huzaifakhan0308/todo-list-react/issues).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
